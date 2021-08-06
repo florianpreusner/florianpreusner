@@ -22,3 +22,4 @@
 [twitter]: https://twitter.com/floeH
 [instagram]: https://instagram.com/floeHly
 [linkedin]: https://www.linkedin.com/in/florianpreusner/
+[reference]: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
