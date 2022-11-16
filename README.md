@@ -6,8 +6,11 @@
 
 ## I'm a Husband, Father, CTO, Entrepreneur and Developer by heart 💙
 
-- 🗳 Co-Founder [Votesquare][votesquare]
-- 🍷 CTO [Wine in Black][wine-in-black]
+- ☁ Co-Founder [Verium - Cloud Audit Services][verium]
+- 👨‍💻 Co-Founder [esthetic space][esthetic-space]
+- 🍷 exCTO [Wine in Black][wine-in-black]
+- 🍷 exCTO [Wine Logistix][wine-logistix]
+- 🍷 exCTO [Vinexus][vinexus]
 
 ### Connect with me:
 
@@ -22,8 +25,11 @@
 
 
 [website]: https://florian.preusner.de
-[votesquare]: https://votesquare.com
+[verium]: https://verium.io
+[esthetic-space]: https://esthetic-space.com
 [wine-in-black]: https://www.wine-in-black.de
+[wine-logistix]: https://www.wine-logistix.de
+[vinexus]: https://www.vinexus.de
 [twitter]: https://twitter.com/floeH
 [instagram]: https://instagram.com/floeHly
 [linkedin]: https://www.linkedin.com/in/florianpreusner/
