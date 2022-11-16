@@ -11,6 +11,7 @@
 - 🍷 exCTO [Wine in Black][wine-in-black]
 - 🍷 exCTO [Wine Logistix][wine-logistix]
 - 🍷 exCTO [Vinexus][vinexus]
+- 👓 exCTO [Haffmans & Neumeister][haffmans-neumeister]
 
 ### Connect with me:
 
@@ -30,6 +31,7 @@
 [wine-in-black]: https://www.wine-in-black.de
 [wine-logistix]: https://www.wine-logistix.de
 [vinexus]: https://www.vinexus.de
+[haffmans-neumeister]: https://haffmansneumeister.com
 [twitter]: https://twitter.com/floeH
 [instagram]: https://instagram.com/floeHly
 [linkedin]: https://www.linkedin.com/in/florianpreusner/
