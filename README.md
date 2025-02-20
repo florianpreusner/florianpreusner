@@ -17,7 +17,6 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/static/v1?logoColor=blue&logo=linkedin&label=%20&message=%20&color=rgba(0,0,0,0)&labelColor=rgba(0,0,0,0)&style=flat-square&logoHeight=150)][linkedin]
-[![Twitter](https://img.shields.io/static/v1?logoColor=blue&logo=twitter&label=%20&message=%20&color=rgba(0,0,0,0)&labelColor=rgba(0,0,0,0)&style=flat-square&logoHeight=150)][twitter]
 [![Instagram](https://img.shields.io/static/v1?logoColor=blue&logo=instagram&label=%20&message=%20&color=rgba(0,0,0,0)&labelColor=rgba(0,0,0,0)&style=flat-square&logoHeight=150)][instagram]
 
 <br />
