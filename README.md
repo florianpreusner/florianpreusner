@@ -6,8 +6,9 @@
 
 ## I'm a Husband, Father, CTO, Entrepreneur and Developer by heart 💙
 
-- ☁ Co-Founder [Verium - Cloud Audit Services][verium]
+- $ Senior Solution Architect [M^0][m0]
 - 👨‍💻 Co-Founder [esthetic space][esthetic-space]
+- ☁ Co-Founder [Verium - Cloud Audit Services][verium]
 - 🍷 exCTO [Wine in Black][wine-in-black]
 - 🍷 exCTO [Wine Logistix][wine-logistix]
 - 🍷 exCTO [Vinexus][vinexus]
@@ -26,6 +27,7 @@
 
 
 [website]: https://florian.preusner.de
+[m0]: https://m0.org
 [verium]: https://verium.io
 [esthetic-space]: https://esthetic-space.com
 [wine-in-black]: https://www.wine-in-black.de
