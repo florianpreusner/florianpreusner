@@ -1,6 +1,6 @@
 ### Hi there, I'm Florian 👋
 
-[![Website](https://img.shields.io/website?label=florian.preusner.de&style=for-the-badge&url=https%3A%2F%2Fflorian.preusner.de)]([website])
+[![Website](https://img.shields.io/website?label=florian.preusner.de&style=for-the-badge&url=https%3A%2F%2Fflorian.preusner.de)][website]
 
 
 ## I'm a Husband, Father, CTO, Entrepreneur and Developer by heart 💙
