@@ -5,12 +5,11 @@
 
 ## I'm a Husband, Father, CTO, Entrepreneur and Developer by heart 💙
 
-- $ Senior Solution Architect [M^0][m0]
+- 🌱 Co-Founder [Finley][finley]
+- ₿ Head of Platform Engineering & Infrastructure [M0][m0]
 - 👨‍💻 Co-Founder [esthetic space][esthetic-space]
 - ☁ Co-Founder [Verium - Cloud Audit Services][verium]
 - 🍷 exCTO [Wine in Black][wine-in-black]
-- 🍷 exCTO [Wine Logistix][wine-logistix]
-- 🍷 exCTO [Vinexus][vinexus]
 - 👓 exCTO [Haffmans & Neumeister][haffmans-neumeister]
 
 ### Connect with me:
@@ -25,6 +24,7 @@
 
 
 [website]: https://florian.preusner.de
+[finley]: https://joinfinley.com
 [m0]: https://m0.org
 [verium]: https://verium.io
 [esthetic-space]: https://esthetic-space.com
